@@ -37,7 +37,7 @@
 
 ### 2.1 프로그램 디렉터리 구조
 
-![RainDropRFID](https://user-images.githubusercontent.com/120069592/207241714-79e66807-0bce-4ad2-a058-92b323762fd1.png)
+![RainDropRFID](https://user-images.githubusercontent.com/120069592/207243111-6f68c62a-f75c-4bb3-b473-2431b382e8f2.png)
 
 
 ### 2.1 개발자가 수정해야 할 파일
@@ -50,3 +50,9 @@
     
     ex) "C:\Program Files (x86)\MariaDB 10.4\bin\mysql" -u root -proot -P3306 < raindrop_smartfactory.sql
     "C:\Program Files (x86)\MariaDB 10.4\bin\mysql" -u ‘아이디’ -p’비밀번호’ -P’포트번호’ < raindrop_smartfactory.sql
+    
+
+| 파일이름 | 설명 | 코드에서의 사용구분 |
+| --- | --- | --- |
+| setting.ini  | DB연동, 장비연동, 환경설정에 따른 기능사용 여부 등을 설정합니다. | 설정 |
+| sql.bat | 데이터베이스 생성 | DB |
