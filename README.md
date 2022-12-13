@@ -31,18 +31,18 @@
 ### 1.5 개발 소스
 
 - DB가 준비되어 있지 않다면 프로젝트 내 CleanDB 폴더에서 ‘sql.bat’의 사용자, 암호, 포트번호를 수정한 후 파일을 실행시킵니다.
+
+-참고
     
-    참고:  2.1 개발자가 수정해야 할 파일
+    
+    ### 2.1 개발자가 수정해야 할 파일
     
 
 ## 2. 프로그램 구조 및 소스 수정
 
 ### 2.1 프로그램 디렉터리 구조
 
-![RainDropRFID](https://user-images.githubusercontent.com/120069592/207230256-aa141f34-4af8-4e1c-8f58-af10f955490f.png)
-
-
-### 2.1 개발자가 수정해야 할 파일
+![RainDropRFID.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dc4d85df-b5b5-4466-a1b1-136350343a27/RainDropRFID.png)
 
 1. setting.ini 파일의 MAINEXAM 섹션을 DB에 맞게 수정합니다.
     
