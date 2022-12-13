@@ -25,8 +25,8 @@
 ## 2. 프로그램 구조 및 소스 수정
 
 ### 2.1 프로그램 디렉터리 구조
+![RainDropRFID](https://user-images.githubusercontent.com/120069592/207211763-ae875ddd-e947-4656-b806-cdede649ead6.png)
 
-![RainDropRFID.png](README%2006d33e9ebd6146d6bb7111d8e2fc7b50/RainDropRFID.png)
 
 ### 2.1 개발자가 수정해야 할 파일
 
