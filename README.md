@@ -23,7 +23,12 @@
 
 - **8.0.23 버전**으로 테스트 진행했습니다. ****(기타 버전은 테스트하지 않았습니다)
 
-### 1.4 개발 소스
+### 1.4 IDE  및 기타 소프트웨어
+
+- VisualStudio 2019
+- HeidiSQL  11.2
+
+### 1.5 개발 소스
 
 - DB가 준비되어 있지 않다면 프로젝트 내 CleanDB 폴더에서 ‘sql.bat’의 사용자, 암호, 포트번호를 수정한 후 파일을 실행시킵니다.
     
@@ -34,7 +39,7 @@
 
 ### 2.1 프로그램 디렉터리 구조
 
-![RainDropRFID](https://user-images.githubusercontent.com/120069592/207229300-37dd3450-6ad9-428e-bd20-4c3d4ef39d1a.png)
+![RainDropRFID](https://user-images.githubusercontent.com/120069592/207230256-aa141f34-4af8-4e1c-8f58-af10f955490f.png)
 
 
 ### 2.1 개발자가 수정해야 할 파일
