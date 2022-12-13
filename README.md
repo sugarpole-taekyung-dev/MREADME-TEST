@@ -13,12 +13,12 @@
 ### 1.2 C#
 
 - **.NET Framework 4 버전** 이상이 설치되어 있어야 합니다.
-    
-    (관련 프로젝트: RainDropRFID)
+    (관련 프로젝트: RFID_DeviceHistory, RFID_ReaderLib)
+
     
 - **.NET Framework 4.6 버전** 이상이 설치되어 있어야 합니다.
+    (관련 프로젝트: RainDropRFID)
     
-    (관련 프로젝트: RFID_DeviceHistory, RFID_ReaderLib)
     
 
 ### 1.3 Mysql
