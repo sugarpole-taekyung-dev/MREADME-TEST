@@ -1,8 +1,4 @@
-# README
-
 # RFID
-
-# Description
 
 ## 1. 개발 환경 및 개발 소스 다운로드
 
