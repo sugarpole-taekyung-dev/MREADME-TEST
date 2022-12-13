@@ -43,7 +43,7 @@
 2. sql.bat 파일의  user, 비밀번호, port 를 사용자의 DB에 맞게 수정합니다. 
     
     ex) "C:\Program Files (x86)\MariaDB 10.4\bin\mysql" -u root -proot -P3306 < raindrop_smartfactory.sql
-    "C:\Program Files (x86)\MariaDB 10.4\bin\mysql" -u ‘아이디’ -p’비밀번호’ -P’port’ < raindrop_smartfactory.sql
+    "C:\Program Files (x86)\MariaDB 10.4\bin\mysql" -u ‘아이디’ -p’비밀번호’ -P’포트번호’ < raindrop_smartfactory.sql
     
 
 | 파일이름 | 설명 | 코드에서의 사용구분 |
